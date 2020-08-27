@@ -19,6 +19,8 @@ jupyter==1.0.0
 jupyter-client==6.1.6
 jupyter-console==6.1.0
 jupyter-core==4.6.3
+libindic-soundex==1.0.2
+libindic-utils==1.0.3
 MarkupSafe==1.1.1
 mistune==0.8.4
 nbconvert==5.6.1
@@ -53,4 +55,5 @@ traitlets==4.3.3
 wcwidth==0.2.5
 webencodings==0.5.1
 widgetsnbextension==3.5.1
+xlrd==1.2.0
 zipp==3.1.0
