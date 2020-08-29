@@ -1,2 +1,5 @@
 venv/
 .ipynb_checkpoints/
+.idea/
+src/__pycache__/
+src/booth_cleanup/__pycache__/
